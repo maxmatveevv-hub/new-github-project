@@ -43,25 +43,32 @@
 // }
 
 
-var stroka = "word";
+// var stroka = "word";
+//
+// switch (stroka) {
+//     case "4":
+//         console.log("равно 4");
+//     break;
+//
+//     case "word":
+//         console.log("равно word");
+//     break;
+//
+//     case "7":
+//         console.log("равно 7");
+//     break;
+//
+//     case "slovo":
+//         console.log("равно slovo");
+//     break;
+//
+//     default:
+//         console.log("Default");
+// }
 
-switch (stroka) {
-    case "4":
-        console.log("равно 4");
-    break;
 
-    case "word":
-        console.log("равно word");
-    break;
+//new comment
 
-    case "7":
-        console.log("равно 7");
-    break;
+var num = 5;
 
-    case "slovo":
-        console.log("равно slovo");
-    break;
-
-    default:
-        console.log("Default");
-}
+console.log(num);
